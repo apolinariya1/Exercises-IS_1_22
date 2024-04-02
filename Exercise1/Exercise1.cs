@@ -20,7 +20,7 @@ namespace Exercise1
             engineState = stateStarted;
         }
 
-        public string getState()
+        public string GetState()
         {
             return (engineState == stateStopped) ? "STOPPED" : "STARTED";
         }
