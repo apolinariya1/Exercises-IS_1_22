@@ -11,12 +11,12 @@ namespace Exercise1
             Console.Out.WriteLine( "State: " + eng.getState() );
             Console.Out.WriteLine();
 
-            eng.start();
+            eng.Start();
             Console.Out.WriteLine( "State: " + eng.getState() );
             Thread.Sleep( 2000 );
             Console.Out.WriteLine();
 
-            eng.stop();
+            eng.Stop();
             Console.Out.WriteLine( "State: " + eng.getState() );
 
             Console.ReadKey();

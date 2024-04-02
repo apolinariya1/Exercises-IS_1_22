@@ -1,0 +1,16 @@
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.exe
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.dll
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.dll
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+P:\2 курс\трПО\apolinariya1\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
